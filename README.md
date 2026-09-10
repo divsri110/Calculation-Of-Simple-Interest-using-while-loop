@@ -1,0 +1,1 @@
+# Calculation-Of-Simple-Interest-using-while-loop
